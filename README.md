@@ -43,6 +43,7 @@ install it: `sudo snap install google-cloud-sdk --classic`
 
 1. [Pub Sub](pubsub)
     - [Producer](pubsub/producer)
+    - [Subscriber](pubsub/subscriber)
 
 ## Disclaimer
 
